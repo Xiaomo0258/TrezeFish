@@ -1,3 +1,3 @@
 function Start(){
-  imgs("http://www.baidu.com");
+  game_start();//开始游戏
 }
