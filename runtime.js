@@ -1,1 +1,3 @@
-imgs("http://www.baidu.com/")
+function Start(){
+  imgs("http://www.baidu.com");
+}
