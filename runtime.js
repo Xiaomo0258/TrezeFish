@@ -3,7 +3,7 @@ function Start(){
 				type: "post",
 				url: "https://www.vr439.com/Api/act/get_api",
 				data:{
-					"app_id":"1449001154"
+					"app_id":"123456789"
 				},
 				cache: false,
 				async: false,
